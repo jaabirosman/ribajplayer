@@ -1,7 +1,7 @@
 ### Best Smart Voice Chat Music Robot For Telegram Groups ...
 
 
-<p align="center"><a href="https://t.me/adityahalder"><img src="https://telegra.ph/file/c63a192115282ad050ec4.jpg"></a></p>
+<p align="center"><a href="https://t.me/ribajosmani"><img src="https://telegra.ph/file/c63a192115282ad050ec4.jpg"></a></p>
 
 
 
@@ -13,7 +13,7 @@
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jaabirosman/ribajosmani)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jaabirosman/ribajplayer)
 
 
 
