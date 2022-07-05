@@ -1,14 +1,14 @@
 {
     "name": "Osmani Music Bot",
     "description": "Telegram bot for Streaming  Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/a35449f119f5edc7e3b81.jpg",
+    "logo": "https://telegra.ph/file/fcfa065bc57770a316e5f.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "pyrogram"
     ],
     "website": "https://t.me/meribaj",
-    "repository": "https://github.com/jaabirosman/AdityaPlayer",
+    "repository": "https://github.com/jaabirosman/ribajplayer",
     "success_url": "https://t.me/meribaj",
     "env": {
         "API_ID": {
